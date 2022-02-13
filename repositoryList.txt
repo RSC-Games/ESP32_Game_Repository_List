@@ -1,1 +1,1 @@
-ESP32 Test File: https://rsc-games.github.io/ESP32_Game_Repository_List/Downloads/ESP32_TEST_FILE.mpy, Blink LED: https://rsc-games.github.io/ESP32_Game_Repository_List/Downloads/Blink_LED.mpy
+ESP32 Test File: https://rsc-games.github.io/ESP32_Game_Repository_List/Downloads/ESP32_TEST_FILE.tar.gz, Blink LED: https://rsc-games.github.io/ESP32_Game_Repository_List/Downloads/Blink LED.tar.gz
